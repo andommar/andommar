@@ -1,8 +1,6 @@
 <h1 align="center">Hello world 👋, I'm Andres</h1>
 <h3 align="center">I'm from Spain currently studying web development at EASV in Esbjerg, Denmark. I'm a willing learner, sports fan🏀 and dog lover!🐕</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andommar" alt="andommar" /></a> </p>
-
 - 🔭 I’m currently working on **university projects**
 
 - 📫 How to reach me **andommartinez@gmail.com**
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andommar&show_icons=true&locale=en&layout=compact" alt="andommar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andommar&show_icons=true&locale=en" alt="andommar" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andommar" alt="andommar" /></a> </p>
