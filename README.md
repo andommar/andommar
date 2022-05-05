@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/andommar" target="_blank" rel="noreferrer">
+    <img src="https://static.cdn.wisestamp.com/wp-content/uploads/2021/01/linkedin-icon-circle.png" alt="linkedin" width="20" height="20"/
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
