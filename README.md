@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋, I'm Andres</h1>
+<h1 align="center">Hello world 👋, I'm Andrés</h1>
 <h3 align="center">I'm from Spain currently studying web development at EASV in Esbjerg, Denmark. I'm a willing learner, sports fan🏀 and dog lover!🐕</h3>
 
 - 🔭 I’m currently working on **university projects**
