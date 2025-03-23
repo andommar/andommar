@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋, I'm Andrés</h1>
 <h3 align="center">Front End developer working with React ⚛️</h3>
-<h2 align="center">Studying and learning artificial inteligence</h2>
+<h1 align="center">Studying and learning artificial inteligence</h1>
 
 - 📫 How to reach me **andommartinez@gmail.com**
 
